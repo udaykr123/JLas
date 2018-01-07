@@ -18,8 +18,6 @@
  */
 package fr.amap.amapvox.als;
 
-import fr.amap.commons.util.ByteConverter;
-
 
 
 /**
